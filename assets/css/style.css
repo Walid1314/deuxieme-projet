@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+body{
+    background-color: dimgray;
+}
+
+div{
+    background-color: white;
+    width: 40%;
+    margin: .5rem auto;
+    /* padding: 15px; */
+    border: 1px solid #3e3744;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+
+}
+li {
+    list-style: none;
+    padding: 30px 15px;
+    background-color: darkred;
+}
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+#mon_id{
+width: 100%;
+}
+
+h1{
+    margin: 70px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 250%;
+}
+
+article{
+display: flex;
+
+
+
+}
